@@ -62,12 +62,12 @@ const Footer = () => {
                   </li>
                   <li>
                     <a href="#" className="hover:text-secondary duration-200">
-                      Services
+                      Contact Us
                     </a>
                   </li>
                   <li>
                     <a href="#" className="hover:text-secondary duration-200">
-                      Login
+                      Resources
                     </a>
                   </li>
                 </ul>
